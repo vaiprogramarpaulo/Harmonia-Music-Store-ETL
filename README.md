@@ -44,15 +44,12 @@ O pipeline segue três etapas principais:
    ```bash
    git clone https://github.com/vaiprogramarpaulo/harmonia-music-store-etl.git
    cd harmonia-music-store-etl
-
 2. Abra o Jupyter Notebook:
 	```bash
    jupyter notebook
-
 3. Execute o arquivo:
 	```bash
    notebooks/harmonia_music_store.ipynb
-
 ---
 
 ## 📊 Resultados
