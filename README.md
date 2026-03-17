@@ -87,8 +87,9 @@ Prévia dos dados tratados:
 - Definido `Sheet1[Mês]` como classificado por `Sheet1[Mês_Num]`
 
 ### Evidências
-![Dashboard com cards e gráfico](docs/dashboard_overview.png)
+![Tabela Auxiliar MesesMap](docs/MesesMap_tabela.png)
 ![Merge no Power Query](docs/powerquery_merge.png)
+![Dashboard com cards e gráfico](docs/dashboard_overview.png)
 
 ### Como reproduzir
 1. Abra o arquivo `.pbix` em Power BI
