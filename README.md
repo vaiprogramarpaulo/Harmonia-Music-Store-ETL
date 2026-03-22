@@ -113,13 +113,19 @@ Projeto de portifólio demonstrando medidas DAX para análise de receita por pro
 **Dados:** dataset hipotético usado para demonstração; não contém informações reais.
 
 ## Evidências e imagens incluídas
-- Dashboard principal: ![](docs/dashboard_overview.png)
-- Validação Receita por Produto com Card: ![](docs/percent-total-with-card.png)
-- Power Query MesesMap e Merge: ![](docs/MesesMap_tabela.png) ![](docs/powerquery_merge.png)
-- Imagem com as colunas `Produto`, `Receita Produto` e `% Receita Produto`: 
-![Dashboard com cards e gráfico](docs/percent_total.png)
-- Rank por Produto: ![](docs/rank_total.png)
-- Dashboard de Receita por Ticket Bucket: ![](docs/ticket_bucket.png)
+- Dashboard principal:
+  ![](docs/dashboard_overview.png)  
+- Validação Receita por Produto com Card:
+  ![](docs/percent-total-with-card.png)  
+- Power Query MesesMap e Merge:
+  ![](docs/MesesMap_tabela.png)
+  ![](docs/powerquery_merge.png)  
+- Imagem com as colunas `Produto`, `Receita Produto` e `% Receita Produto`:
+  ![Dashboard com cards e gráfico](docs/percent_total.png)  
+- Rank por Produto:
+  ![](docs/rank_total.png)   
+- Dashboard de Receita por Ticket Bucket:
+  ![](docs/ticket_bucket.png)
 
 ### Medidas DAX Implementadas 
  **Receita Total:** `Receita Total = SUM(Sheet1[Receita Total])`  
