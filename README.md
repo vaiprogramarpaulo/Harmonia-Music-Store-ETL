@@ -66,7 +66,7 @@ Exemplo de colunas criadas:
 - Ticket Médio → permite avaliar o valor médio por venda.
 
 Prévia dos dados tratados: 
-| Produto | Mês       | Quantidade | Receita Total | Ticket Médio |
+| Produto | Mês       | Quantidade | Receita Total  | Ticket Médio  |
 |---------|-----------|------------|----------------|---------------|
 | Violão  | Janeiro   | 10         | 5000           | 500.0         |
 | Piano   | Fevereiro | 5          | 15000          | 3000.0        |
@@ -115,10 +115,10 @@ Projeto de portifólio demonstrando medidas DAX para análise de receita por pro
 ## Evidências e imagens incluídas
 - Dashboard principal: ![](docs/dashboard_overview.png)
 - Validação Receita por Produto com Card: ![](docs/percent-total-with-card.png)
-- Power Query MesesMap e Merge: ![](docs/MesesMap_tabela.png); ![](docs/powerquery_merge.png)
+- Power Query MesesMap e Merge: ![](docs/MesesMap_tabela.png) ![](docs/powerquery_merge.png)
 - Imagem com as colunas `Produto`, `Receita Produto` e `% Receita Produto`: 
 ![Dashboard com cards e gráfico](docs/percent_total.png)
-- Rank por Produto: ![](docs/rank_produto.png)
+- Rank por Produto: ![](docs/rank_total.png)
 - Dashboard de Receita por Ticket Bucket: ![](docs/ticket_bucket.png)
 
 ### Medidas DAX Implementadas 
